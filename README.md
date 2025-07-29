@@ -2,6 +2,8 @@
 
 A simple visual flow builder application built with Next.js and React Flow.
 
+🚀 **[Live Demo](https://react-flow-ebon.vercel.app/)**
+
 ## Features
 
 - Drag-and-drop flow builder interface
